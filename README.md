@@ -11,7 +11,7 @@ To start I thought of the rough design, then researched materials that would be 
 
 <h2> CAD Design </h2>
 
-Being my first experience with any CAD, it took some time and effort to create the design for the capsule, however it was extremely beneficial and rewarding. 
+Being my first experience with any CAD, it took some time and effort to create the design for the capsule, mainly the hollow dome representing the parachute.  
 
  <p align="center">
   <img src="Images/WholeCapsule.png" width="300">
