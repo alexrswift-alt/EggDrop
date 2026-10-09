@@ -15,6 +15,7 @@ Being my first experience with any CAD, it took some time and effort to create t
 
  <p align="center">
   <img src="Images/WholeCapsule.png" width="300">
+  <img src="Images/Cushion.png" width="300">
   <br>
-  <em> Whole Capsule </em>
+  <em> Whole Capsule and Egg cover </em>
 </p>
