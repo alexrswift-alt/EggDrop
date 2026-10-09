@@ -2,4 +2,9 @@
 
 <h2> Description </h2>
 
-I was tasked to design a reusable vessel intended to protect a raw chicken egg during a drop from height. It was intended to take a payload of a raw chicken egg of mass approximately 55 g 
+I was tasked to design a reusable vessel intended to protect a raw chicken egg during a drop from height. It was intended to take a payload mass of approximately 55g, the drop path, orientation, and attitude during descent were not defined and open for me to considered as part of the design.
+
+I decided a parachute would be the safest and most reliable mechanism to protect the egg while remaining reusable. It also gave me the chance to learn about parachute design and the physics behind it. 
+
+
+To start I thought of the rough design, then researched materials that would be suitable for the criterium. Once the materials were decided on then size, weight and drag calculations were done to create 
