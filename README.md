@@ -15,5 +15,5 @@ Being my first experience with any CAD, it took some time and effort to create t
 
  <p align="center">
   <img src="Images/WholeCapsule.png" width="500">
-  <img src="Images/Cushion.png" width="500">
+  <img src="Images/Cushion.png" width="503">
 </p>
