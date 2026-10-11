@@ -19,7 +19,9 @@ Being my first experience with any CAD, it took some time and effort to create t
 </p>
 
 <h2> Resources Used </h2>
+
 - SolidWorks
+
 - Granta EduPack Database 
 
 <h2> Specific Design Parameters </h2>
@@ -37,13 +39,17 @@ DR‑1.   The design shall be reusable and shall not rely on sacrificial destruc
 
 DR‑2.   The design shall be fully specified, including:
 
-Overall geometry and configuration
-Key dimensions
-Estimated total mass
-Identification of all constituent components and materials
+- Overall geometry and configuration
+
+- Key dimensions
+
+- Estimated total mass
+
+- Identification of all constituent components and materials
+
 DR‑3.   The design shall include a clear representation of the internal egg‑retention and energy‑mitigation strategy.
 
-Materials and Manufacturing Requirements
+<h6> Materials and Manufacturing Requirements </h6>
 
 MR‑1. All materials selected shall be drawn from the Approved Materials List provided in the table at the end of the assignment.
 
@@ -53,13 +59,16 @@ MR‑3. For each major component, a plausible manufacturing process shall be ide
 
 MR‑4. Manufacturing routes shall be appropriate for low to moderate production volumes and non-specialist fabrication environments.
 
-Sustainability and Life‑Cycle Requirements
+<h6> Sustainability and Life‑Cycle Requirements </h6>
 
 SR‑1.    The design shall incorporate qualitative life‑cycle assessment (LCA) considerations.
 
 SR‑2.    Sustainability justification shall consider, as a minimum:
 
-Raw material sourcing and embodied energy
-Manufacturing and processing impacts
-Reusability and service life
-End‑of‑life options (reuse, recycling, biodegradation, disposal)
+- Raw material sourcing and embodied energy
+
+- Manufacturing and processing impacts
+
+- Reusability and service life
+
+- End‑of‑life options (reuse, recycling, biodegradation, disposal)
