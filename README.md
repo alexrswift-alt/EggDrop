@@ -222,23 +222,37 @@ PP was chosen; in addition, the tensile strength to density was more ideal for P
 especially when designing a parachute cord. 
 
 <h2> Materials and Properties </h2>
-Polyethylene:
+<h4> Polyethylene:</h4>
+
 Youngs Modulus --> 0.621 - 0.896 GPa
+
 Tensile Strength --> 20.7 - 44.8 MPa
+
 Elongation --> 200 – 800%
+
 Density --> 939 – 960 Kg/m3
-Polypropylene:
+<h4>Polypropylene:</h4>
+
 Youngs Modulus --> 0.824 - 1.02 GPa
+
 Tensile Strength --> 26–50 MPa
+
 Density --> 895–909 kg/m³
-Bamboo:
+<h4>Bamboo:</h4>
+
 Youngs Modulus --> 0.0012 - 0.0021 GPa
+
 Fracture Toughness --> 5.69 - 7.01 MPa.m^0.5
+
 Density --> 602 – 797 Kg/m3
-Natural Rubber:
+<h4>Natural Rubber:</h4>
+
 Youngs Modulus --> 0.0012 - 0.0021 GPa
+
 Poissons Ration --> 0.5
+
 Compressive Strength --> 25.2–33.6 MPa
+
 Tensile Strength --> 21 – 28 MPa 
 
 
