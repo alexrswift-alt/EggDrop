@@ -113,10 +113,10 @@ production.
 <h2> Design Justification </h2>
 
 <h5> Capsule - </h5>
-For the capsule, the shape itself is a large part of the force mitigation strategy. Being a
-rounded shape, it reduces the corners that otherwise would have been susceptible to
+For the capsule, the shape itself is a large part of the force mitigation strategy. Having a
+rounded shape reduces sharp corners and therefore lowers concentration of forces, ultimatley reducing
 deformation and wear over extended amounts of drops but will also spread the force
-out much more evenly, reducing chance of one part failing. The materials of the capsule
+out much more evenly, reducing chance of the capsule failing. The materials of the capsule
 were heavily scrutinised to find the optimal material for use. I decided to use rubber for
 the cousin, due to its high Poissons ratio of 0.5 the rubber will deform laterally with the
 force and therefore apply load across the surface of the egg instead of a compressive
