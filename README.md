@@ -14,8 +14,8 @@ To start I thought of the rough design, then researched materials that would be 
 Being my first experience with any CAD, it took some time and effort to create the design for the capsule, mainly the hollow dome representing the parachute.  
 
  <p align="center">
-  <img src="Images/WholeCapsule.png" width="300">
-  <img src="Images/Cushion.png" width="300">
+  <img src="Images/WholeCapsule.png" width="500">
+  <img src="Images/Cushion.png" width="520">
   <br>
   <em> Whole Capsule and Egg cover </em>
 </p>
