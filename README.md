@@ -255,6 +255,55 @@ Compressive Strength --> 25.2–33.6 MPa
 
 Tensile Strength --> 21 – 28 MPa 
 
+<h2>Appendices -</h2>
+The dimensions were all found using the SolidWorks features and therefore will be
+accurate. The measurements and mass are as follows:
+
+<h4>Capsule -</h4>
+
+Shell height –> 60mm
+
+Shell thickness –> 1.5mm
+
+Shell diameter –> 60mm
+
+Door thickness –> 1.5mm
+
+Shell weight -> 0.0189 kg
+
+Cushion height –> 30mm (these are fit together around the egg therefore both halves
+combined are 60mm)
+
+Cushion weight -> 0.0667 kg
+
+<h4>Parachute -</h4>
+
+Body thickness -> 0.005mm
 
 
+Body diameter -> 100mm
+
+Body height -> 50mm
+
+Body weight -> 0.0001128 kg
+
+Cord length -> 155.83mm
+
+Cord diameter -> 1.5mm
+
+Cord weight -> 0.001033 kg
+
+Total weight -> 0.0867458 kg (0.1367458 kg with the egg)
+
+<h4>Cost Analysis -</h4>
+
+Polyethylene (0.947 £/kg) - £0.00010682
+
+Polypropylene (1.92 £/kg) - £0.001294
+
+Bamboo (1.65 £/kg) - £0.031185
+
+Natural Rubber (1.06 £/kg) - £0.07
+
+<h4>Total Cost - £0.103</h4>
 
