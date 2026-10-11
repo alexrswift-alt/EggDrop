@@ -309,7 +309,7 @@ Natural Rubber (1.06 £/kg) - £0.07
 
 <h2> Eco Audit </h2>
 
-[View or Download the PDF Document](Egg.Drop.Eco.Audit.pdf)
+[View the Eco Audit](Egg.Drop.Eco.Audit.pdf)
 
 
 
